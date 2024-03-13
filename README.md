@@ -3,6 +3,7 @@ Require tools to be installed:
 + Node JS
 + VS Code
 
+For new project:
 1. make new project, open in vscode
 2. open vscode terminal
 3. npm init 
@@ -21,7 +22,7 @@ Require dependencies
 .
 .
 .
-
+For run this project:
 Follow the following step to run this automation on your local machine:
 1. Clone the project
 2. Open terminal
