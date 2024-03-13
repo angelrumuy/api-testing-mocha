@@ -1,7 +1,7 @@
 # api-testing-mocha
 Require tools to be installed:
-Node JS
-VS Code
++ Node JS
++ VS Code
 
 1. make new project, open in vscode
 2. open vscode terminal
