@@ -16,13 +16,12 @@ Require dependencies
 + Generate test report :  npm install mochawesome-report-generator --save-dev
 
 
+.
+.
+.
+.
+.
 
-
-
-
-
-
-//
 Follow the following step to run this automation on your local machine:
 1. Clone the project
 2. Open terminal
