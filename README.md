@@ -8,13 +8,21 @@ Require tools to be installed:
 3. npm init 
    project initialisation
 
-Install dependencies
+Require dependencies
 + Install mocha framework :  npm install mocha@10.2.0 --save-dev 
 + Install chai for assertion :  npm install chai@4.3.7 --save-dev
 + Instal chai-http for operasi http :  npm install chai-http@4.4.0 --save-dev
 + npm install mochawesome  --save-dev
 + Generate test report :  npm install mochawesome-report-generator --save-dev
 
+
+
+
+
+
+
+
+//
 Follow the following step to run this automation on your local machine:
 1. Clone the project
 2. Open terminal
