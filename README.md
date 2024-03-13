@@ -19,6 +19,7 @@ Require dependencies
 
 
 For run this project:
+
 Follow the following step to run this automation on your local machine:
 1. Clone the project
 2. Open terminal
